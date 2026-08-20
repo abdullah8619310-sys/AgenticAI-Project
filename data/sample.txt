@@ -1,0 +1,3 @@
+This is a sample text file for the File Reader Plugin.
+It is used by tests/test_file_reader.py to verify that .txt reading works.
+Artificial intelligence is the simulation of human intelligence by machines.
